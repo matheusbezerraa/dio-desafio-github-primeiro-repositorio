@@ -1,0 +1,7 @@
+O Git é um sistema de controle de versão distribuído, que foi criado por Linus Torvalds em 2005. Torvalds, o criador do sistema operacional Linux, estava insatisfeito com os sistemas de controle de versão disponíveis na época e decidiu criar um sistema que fosse rápido, eficiente e capaz de lidar com projetos grandes e complexos.
+
+O Git foi projetado para permitir que desenvolvedores trabalhassem em colaboração em um mesmo projeto, sem ter que se preocupar com a complexidade de gerenciar as diferentes versões de arquivos que eles estavam trabalhando. Ele permite que cada desenvolvedor tenha uma cópia completa do repositório de código em seu próprio computador e que possa contribuir para o projeto, sincronizando suas alterações com os outros membros da equipe.
+<h2>GitHub</h2>
+O GitHub, por outro lado, é uma plataforma de hospedagem de código-fonte baseada na web, que foi criada em 2008 por Tom Preston-Werner, Chris Wanstrath e PJ Hyett. O GitHub permite que desenvolvedores armazenem, gerenciem e compartilhem seu código-fonte em um único local centralizado. Ele também oferece uma série de recursos colaborativos, como rastreamento de problemas, solicitações de pull e colaboração em equipe.
+
+O GitHub rapidamente se tornou uma das principais plataformas de hospedagem de código-fonte do mundo, com milhões de usuários e projetos em sua plataforma. A combinação do Git e do GitHub permitiu que desenvolvedores trabalhassem de forma mais colaborativa e eficiente do que nunca, ajudando a acelerar a inovação em toda a indústria de tecnologia.
